@@ -28,12 +28,12 @@ Now you can open the TennisProject in Visual Studio Code.
 The project uses a tennis.json file to provide you will ample test data. You Have to write a series of functions that manipulates that data to return the desired output. The code you have to write is in the Functions directory. Each file in the Functions directory describes what function should be implemented
 
 ### How to Run the Functions
-To run the function in the command Prompt first run
+To run the function, in the command Prompt first run
 ```bash
 npm install
 ```
-to install the dependencies
-next run the following command to run your javascript file
+to install the dependencies.
+Next run the following command to run your javascript file
 ```bash
 npm run start Function/<Function file>
 ```
