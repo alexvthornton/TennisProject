@@ -11,7 +11,7 @@ https://www.simplilearn.com/tutorials/git-tutorial/git-installation-on-windows
 ### Clone this project
 To clone this project onto your computer in the command prompt first navigate to the directory (folder) that you want to place this project in, then run this command
 ```bash
-git clone url
+git clone https://github.com/alexvthornton/TennisProject.git
 ```
 then you will be propted to enter your GitHub credentials. 
 
