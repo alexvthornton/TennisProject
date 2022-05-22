@@ -39,7 +39,7 @@ npm run start Function/<Function file>
 ```
 i.e.
 ```bash
-npm run start Function/FunctionOne.js
+npm run start Functions/FunctionOne.js
 ```
 
 ## Submitting Your Code
